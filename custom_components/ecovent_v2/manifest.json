@@ -4,7 +4,7 @@
   "name": "EcoVentV2",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/ecovent_v2",
-  "requirements": ["pyEcoventV2==0.9.5"],
+  "requirements": ["git+https://github.com/tarinjames/pyEcoventV2@master#pyEcovent==0.9.5"],
   "ssdp": [],
   "zeroconf": [],
   "homekit": {},
